@@ -1,0 +1,20 @@
+[
+  {
+    "case": "C1",
+    "date": "2025-07-03",
+    "household": "H06",
+    "obligation": "R25C",
+    "amount": 120,
+    "status": "已移交",
+    "receipt": null
+  },
+  {
+    "case": "C2",
+    "date": "2025-07-12",
+    "household": "H06",
+    "obligation": "R25C",
+    "amount": 120,
+    "status": "已到账",
+    "receipt": "B16"
+  }
+]

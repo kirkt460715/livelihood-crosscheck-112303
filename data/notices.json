@@ -1,0 +1,30 @@
+[
+  {
+    "receipt": "K1",
+    "received": "2025-07-07",
+    "kind": "归属确认",
+    "target": "B11",
+    "detail": {
+      "R25A/H21": 150,
+      "R25A/H22": 50
+    }
+  },
+  {
+    "receipt": "K2",
+    "received": "2025-07-10",
+    "kind": "身份确认",
+    "target": "R1",
+    "detail": {
+      "household": "H22"
+    }
+  },
+  {
+    "receipt": "K3",
+    "received": "2025-07-11",
+    "kind": "归属确认",
+    "target": "B12",
+    "detail": {
+      "W25D": 500
+    }
+  }
+]

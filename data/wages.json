@@ -1,0 +1,58 @@
+[
+  {
+    "obligation": "W24A",
+    "person": "P1",
+    "worked": "2024-05-19",
+    "period": "2024-Q2",
+    "due": "2024-06-20",
+    "yuan": 450
+  },
+  {
+    "obligation": "W24B",
+    "person": "P3",
+    "worked": "2024-05-20",
+    "period": "2024-Q2",
+    "due": "2024-06-20",
+    "yuan": 450
+  },
+  {
+    "obligation": "W25A",
+    "person": "P1",
+    "worked": "2025-05-19",
+    "period": "2025-Q2",
+    "due": "2025-06-20",
+    "yuan": 500
+  },
+  {
+    "obligation": "W25B",
+    "person": "P2",
+    "worked": "2025-05-23",
+    "period": "2025-Q2",
+    "due": "2025-06-20",
+    "yuan": 480
+  },
+  {
+    "obligation": "W25C",
+    "person": "P3",
+    "worked": "2025-05-24",
+    "period": "2025-Q2",
+    "due": "2025-06-20",
+    "yuan": 500
+  },
+  {
+    "obligation": "W25D",
+    "person": "P4",
+    "worked": "2025-05-26",
+    "period": "2025-Q2",
+    "due": "2025-06-20",
+    "yuan": 500
+  },
+  {
+    "obligation": "W25E",
+    "person": "P6",
+    "worked": "2025-05-29",
+    "period": "2025-Q2",
+    "due": "2025-06-20",
+    "yuan": 500
+  }
+]

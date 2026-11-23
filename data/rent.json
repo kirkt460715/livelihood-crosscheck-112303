@@ -1,0 +1,61 @@
+[
+  {
+    "obligation": "R24A",
+    "plot": "D1",
+    "period": "2024-Q2",
+    "due": "2024-06-30",
+    "yuan": 1000,
+    "shares": {
+      "H01": 60,
+      "H02": 40
+    },
+    "agent": "A1"
+  },
+  {
+    "obligation": "R24B",
+    "plot": "D5",
+    "period": "2024-Q2",
+    "due": "2024-06-30",
+    "yuan": 700,
+    "shares": {
+      "H05": 100
+    },
+    "agent": "A5"
+  },
+  {
+    "obligation": "R25A",
+    "plot": "D1",
+    "period": "2025-Q2",
+    "due": "2025-06-30",
+    "yuan": 1200,
+    "shares": {
+      "H01": 60,
+      "H21": 25,
+      "H22": 15
+    },
+    "agent": "A1"
+  },
+  {
+    "obligation": "R25B",
+    "plot": "D2",
+    "period": "2025-Q2",
+    "due": "2025-06-30",
+    "yuan": 500,
+    "shares": {
+      "H03": 60,
+      "H04": 40
+    },
+    "agent": "A3"
+  },
+  {
+    "obligation": "R25C",
+    "plot": "D6",
+    "period": "2025-Q2",
+    "due": "2025-06-30",
+    "yuan": 500,
+    "shares": {
+      "H06": 100
+    },
+    "agent": "A6"
+  }
+]

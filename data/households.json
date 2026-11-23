@@ -1,0 +1,62 @@
+[
+  {
+    "household": "H01",
+    "village": "北湾",
+    "start": "2024-01-01",
+    "end": null,
+    "predecessor": []
+  },
+  {
+    "household": "H02",
+    "village": "北湾",
+    "start": "2024-01-01",
+    "end": "2025-01-01",
+    "predecessor": []
+  },
+  {
+    "household": "H21",
+    "village": "北湾",
+    "start": "2025-01-01",
+    "end": null,
+    "predecessor": [
+      "H02"
+    ]
+  },
+  {
+    "household": "H22",
+    "village": "南湾",
+    "start": "2025-01-01",
+    "end": null,
+    "predecessor": [
+      "H02"
+    ]
+  },
+  {
+    "household": "H03",
+    "village": "北湾",
+    "start": "2024-01-01",
+    "end": null,
+    "predecessor": []
+  },
+  {
+    "household": "H04",
+    "village": "南湾",
+    "start": "2025-01-01",
+    "end": null,
+    "predecessor": []
+  },
+  {
+    "household": "H05",
+    "village": "南湾",
+    "start": "2024-01-01",
+    "end": "2025-01-01",
+    "predecessor": []
+  },
+  {
+    "household": "H06",
+    "village": "南湾",
+    "start": "2024-01-01",
+    "end": null,
+    "predecessor": []
+  }
+]

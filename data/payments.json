@@ -1,0 +1,125 @@
+[
+  {
+    "payment": "B01",
+    "date": "2024-06-29",
+    "account": "A1",
+    "yuan": 1000,
+    "candidates": [
+      "R24A/H01",
+      "R24A/H02"
+    ],
+    "confirmed": {
+      "R24A/H01": 600,
+      "R24A/H02": 400
+    }
+  },
+  {
+    "payment": "B02",
+    "date": "2024-06-20",
+    "account": "P1",
+    "yuan": 450,
+    "candidates": [
+      "W24A"
+    ],
+    "confirmed": {
+      "W24A": 450
+    }
+  },
+  {
+    "payment": "B03",
+    "date": "2024-06-20",
+    "account": "P3",
+    "yuan": 450,
+    "candidates": [
+      "W24B"
+    ],
+    "confirmed": {
+      "W24B": 450
+    }
+  },
+  {
+    "payment": "B04",
+    "date": "2024-06-30",
+    "account": "A5",
+    "yuan": 700,
+    "candidates": [
+      "R24B/H05"
+    ],
+    "confirmed": {
+      "R24B/H05": 700
+    }
+  },
+  {
+    "payment": "B11",
+    "date": "2025-06-30",
+    "account": "A1",
+    "yuan": 920,
+    "candidates": [
+      "R25A/H01",
+      "R25A/H21",
+      "R25A/H22"
+    ],
+    "confirmed": {
+      "R25A/H01": 720
+    }
+  },
+  {
+    "payment": "B12",
+    "date": "2025-06-20",
+    "account": "A3",
+    "yuan": 500,
+    "candidates": [
+      "W25C",
+      "W25D"
+    ],
+    "confirmed": {}
+  },
+  {
+    "payment": "B13",
+    "date": "2025-06-20",
+    "account": "P1",
+    "yuan": 500,
+    "candidates": [
+      "W25A"
+    ],
+    "confirmed": {
+      "W25A": 500
+    }
+  },
+  {
+    "payment": "B14",
+    "date": "2025-06-20",
+    "account": "P2",
+    "yuan": 480,
+    "candidates": [
+      "W25B"
+    ],
+    "confirmed": {
+      "W25B": 480
+    }
+  },
+  {
+    "payment": "B15",
+    "date": "2025-06-30",
+    "account": "A6",
+    "yuan": 300,
+    "candidates": [
+      "R25C/H06"
+    ],
+    "confirmed": {
+      "R25C/H06": 300
+    }
+  },
+  {
+    "payment": "B16",
+    "date": "2025-07-11",
+    "account": "P6",
+    "yuan": 120,
+    "candidates": [
+      "R25C/H06"
+    ],
+    "confirmed": {
+      "R25C/H06": 120
+    }
+  }
+]
