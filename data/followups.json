@@ -6,7 +6,8 @@
     "obligation": "R25C",
     "amount": 120,
     "status": "已移交",
-    "receipt": null
+    "receipt": null,
+    "previous_case": null
   },
   {
     "case": "C2",
@@ -15,6 +16,7 @@
     "obligation": "R25C",
     "amount": 120,
     "status": "已到账",
-    "receipt": "B16"
+    "receipt": "B16",
+    "previous_case": "C1"
   }
 ]

@@ -12,7 +12,7 @@ def table(name):
 
 
 class SourceDataTest(unittest.TestCase):
-def test_payment_candidates_point_to_obligations(self):
+    def test_payment_candidates_point_to_obligations(self):
         names = {row["obligation"] for row in table("wages")}
         names.update(f'{row["obligation"]}/{household}'
                      for row in table("rent") for household in row["shares"])
